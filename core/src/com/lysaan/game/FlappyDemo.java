@@ -8,6 +8,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.lysaan.game.states.GameStateManager;
 import com.lysaan.game.states.MenuState;
 
+//this is just check if updates are made successfully.
 public class FlappyDemo extends ApplicationAdapter {
 
 	public static final int WIDTH = 480;
