@@ -9,6 +9,7 @@ import com.lysaan.game.states.GameStateManager;
 import com.lysaan.game.states.MenuState;
 
 //this is just check if updates are made successfully.
+//and this is check if download to android studio is successful
 public class FlappyDemo extends ApplicationAdapter {
 
 	public static final int WIDTH = 480;
